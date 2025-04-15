@@ -1,5 +1,7 @@
 
 # Jeoffrey Alcain Garrera - Portfolio
+**Live Portfolio:** [View it here](https://jgar4139.github.io/jeoffrey_portfolio/)
+
 
 Welcome to my personal portfolio! This site highlights my professional experience, technical skills, and background in customer support, sales, and real estate. I am actively seeking new opportunities where I can contribute my expertise and grow in a dynamic environment.
 
